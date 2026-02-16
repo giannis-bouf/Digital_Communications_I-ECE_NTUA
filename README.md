@@ -25,9 +25,11 @@ The repository is organized into distinct laboratory units:
 | Folder / Lab | Description |
 | :--- | :--- |
 | **`Lab 1/`** | **MATLAB Fundamentals & Signal Processing**: Introduction to the MATLAB environment, signal generation, time-domain analysis, and basic signal transformations. |
-| **`Lab 2/`** | Performance of Baseband systems in the presence of AWGN. |
-| **`Lab 3/`** | Passband Modulations (QAM, PSK) and Constellation Diagrams. |
-| **`Final_Project/`** | Integrated simulation of a complete digital communication link. |
+| **`Lab 2/`** | **Design of Digital FIR Filters**: Design and implementation of FIR filters and analysis of their frequency response. |
+| **`Lab 3/`** | **Custom Filters & L-ASK**: Implementation of custom digital filters and study of L-ASK / PAM modulation. |
+| **`Lab 4/`** | **Nyquist Filters**: Analysis of the Nyquist Criterion for zero Inter-Symbol Interference and implementation of Raised Cosine filters. |
+| **`Lab 5/`** | **QAM - PSK**: Simulation and performance analysis of QAM and PSK constellations. |
+| **`Lab 6/`** | **FSK - MSK**: Implementation and spectral analysis of FSK and MSK modulations. |
 
 *Each folder contains the `.m` source files and the corresponding technical report (PDF).*
 
