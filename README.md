@@ -24,7 +24,7 @@ The repository is organized into distinct laboratory units:
 
 | Folder / Lab | Description |
 | :--- | :--- |
-| **`Lab 1/`** | MATLAB Fundamentals & Signal Processing: Introduction to the MATLAB environment, signal generation, time-domain analysis, and basic signal transformations. |
+| **`Lab 1/`** | **MATLAB Fundamentals & Signal Processing**: Introduction to the MATLAB environment, signal generation, time-domain analysis, and basic signal transformations. |
 | **`Lab 2/`** | Performance of Baseband systems in the presence of AWGN. |
 | **`Lab 3/`** | Passband Modulations (QAM, PSK) and Constellation Diagrams. |
 | **`Final_Project/`** | Integrated simulation of a complete digital communication link. |
