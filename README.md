@@ -30,3 +30,16 @@ The repository is organized into distinct laboratory units:
 | **`Final_Project/`** | Integrated simulation of a complete digital communication link. |
 
 *Each folder contains the `.m` source files and the corresponding technical report (PDF).*
+
+---
+
+## 🛠 Prerequisites & Usage
+To run the simulations, you need **MATLAB** (Recommended version: R2022a or later) with the **Communications Toolbox**.
+
+### Running a simulation:
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/giannis-bouf/Digital_Communications_I-ECE_NTUA.git](https://github.com/giannis-bouf/Digital_Communications_I-ECE_NTUA.git)
+   ```
+2. Open MATLAB and navigate to the desired Lab folder.
+3. Run the main script.
