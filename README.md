@@ -1,8 +1,8 @@
 # 📡 Digital Communications I - ECE NTUA
 
-[![Course](https://img.shields.io/badge/Course-Digital_Communications_I-blue)](https://www.ece.ntua.gr/)
-[![University](https://img.shields.io/badge/University-NTUA-red)](https://www.ntua.gr/)
-[![Software](https://img.shields.io/badge/Software-MATLAB-orange)](https://www.mathworks.com/products/matlab.html)
+[![Course](https://img.shields.io/badge/Course-Digital_Communications_I-blue)]
+[![University](https://img.shields.io/badge/University-NTUA-red)]
+[![Software](https://img.shields.io/badge/Software-MATLAB-orange)]
 
 This repository contains the laboratory exercises and simulations developed for the **Digital Communications I** course at the School of Electrical and Computer Engineering, **National Technical University of Athens (NTUA)**, during the academic year 2022-2023.
 
